@@ -7,7 +7,7 @@
 - My current interests lay in storytelling and coding. Be careful, or your demise might join the list.
 - I am currently learning how to be human. It is not going well.
 - Don't try to reach me, I'll find you.
-
+- 
 <!---
 hereforstuffash/hereforstuffash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
